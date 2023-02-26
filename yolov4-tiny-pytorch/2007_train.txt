@@ -1,0 +1,187 @@
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/001.jpg 106,101,294,362,0 111,1,227,177,1 321,248,507,406,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/002.jpg 512,1,681,422,0 614,210,679,298,1 479,1,600,238,0 663,1,737,253,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/003.jpg 13,226,534,595,0 5,235,57,348,1 1045,357,1126,541,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/004.jpg 81,454,183,623,0 346,216,424,377,0 555,140,617,275,0 460,97,517,203,0 524,80,575,171,0 533,21,589,105,0 374,47,428,143,0 262,31,307,105,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/005.jpg 835,165,895,318,0 870,234,895,312,1 978,173,1057,317,0 495,94,554,193,0 452,2,512,106,0 584,11,625,104,0 620,11,660,104,0 665,121,717,213,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/007.jpg 556,350,639,431,1 422,255,608,560,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/008.jpg 415,47,542,257,0 419,101,452,147,1 501,154,539,202,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/009.jpg 431,87,530,263,0 419,205,451,244,1 503,188,524,215,1 901,19,948,139,0 958,104,1035,314,0 963,162,1105,404,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/010.jpg 698,63,830,292,0 708,169,747,217,1 765,191,811,243,1 520,1,576,124,0 917,54,994,229,0 861,5,898,123,0 889,17,920,131,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/011.jpg 381,4,449,153,0 441,20,495,96,1 452,40,563,269,0 637,100,785,387,0 803,120,969,382,0 968,132,1072,280,0 810,41,884,240,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/012.jpg 808,111,854,202,1 598,134,645,158,1 783,41,862,194,0 742,170,874,273,0 953,60,1042,286,0 516,1,590,129,0 438,2,494,97,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/013.jpg 487,26,587,265,0 368,1,484,156,0 941,329,1132,629,0 761,179,855,274,0 901,69,964,197,0 611,83,690,224,0 676,53,788,165,0 586,1,655,155,0 656,170,788,237,1 710,75,786,161,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/015.jpg 311,251,421,489,0 324,370,349,423,1 384,371,407,403,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/016.jpg 554,273,605,376,0 614,221,687,327,0 811,142,859,242,0 775,293,843,398,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/017.jpg 602,255,823,559,0 612,329,692,379,1 542,7,612,143,0 803,11,856,103,0 728,1,779,102,0 929,1,979,77,0 1069,18,1122,106,0 130,3,194,117,0 181,3,246,113,0 1,8,47,123,0 246,3,292,101,0 282,1,315,95,0 306,2,358,92,0 350,1,406,93,0 627,1,661,62,0 658,1,681,60,0 686,1,707,55,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/018.jpg 53,166,189,363,0 136,250,183,303,1 333,190,440,340,0 583,196,642,317,0 607,176,693,354,0 818,197,911,350,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/019.jpg 340,179,418,357,0 382,246,411,293,1 507,199,589,335,0 704,202,753,314,0 734,198,796,329,0 908,196,1040,362,0 1070,205,1155,358,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/020.jpg 484,223,565,383,0 547,293,589,322,1 590,236,659,358,0 744,244,788,361,0 774,238,833,358,0 1098,262,1133,356,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/021.jpg 166,103,391,578,0 239,20,296,138,1 136,189,197,303,0 326,195,402,322,0 433,194,485,305,0 465,188,520,311,0 605,135,842,601,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/022.jpg 156,258,195,348,0 169,224,289,497,0 269,192,302,273,1 309,262,365,371,0 420,255,499,422,0 471,268,509,363,0 480,271,530,374,0 542,271,596,367,0 626,278,675,419,0 673,272,739,429,0 735,293,786,437,0 764,206,884,597,0 918,261,987,518,0 965,256,1051,521,0 1091,232,1153,529,0 749,108,805,526,1 1065,128,1149,632,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/023.jpg 187,261,386,560,0 278,362,585,423,1 715,287,771,325,1 672,341,851,365,1 519,168,692,635,0 787,245,948,565,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/024.jpg 366,382,472,565,0 383,480,406,543,1 218,195,274,333,0 311,181,382,336,0 313,255,329,286,1 146,122,209,239,0 210,116,249,222,0 231,104,270,211,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/026.jpg 173,164,198,178,1 216,148,294,311,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/029.jpg 187,4,499,605,0 146,387,222,509,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/030.jpg 284,209,395,546,0 416,229,493,444,0 966,260,1054,512,0 907,272,1001,495,0 671,248,910,617,0 838,249,898,444,0 608,239,718,511,0 612,392,640,455,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/031.jpg 56,142,251,632,0 265,403,401,454,1 190,423,279,484,1 453,154,622,536,0 473,106,503,180,1 822,143,998,632,0 974,175,1151,632,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/032.jpg 60,52,315,592,0 407,57,583,458,0 388,259,454,290,1 675,189,811,258,1 830,47,1010,548,0 919,54,1157,592,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/033.jpg 138,240,384,595,0 412,358,566,581,0 478,218,629,548,0 769,174,962,591,0 944,171,1147,595,0 457,440,509,492,1 498,261,540,348,1 721,393,819,495,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/034.jpg 137,93,1106,529,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/035.jpg 510,190,828,627,0 701,363,927,542,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/036.jpg 574,215,636,484,1 644,210,900,627,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/039.jpg 230,3,567,481,0 243,188,287,424,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/040.jpg 335,74,509,271,1 222,1,565,473,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/042.jpg 21,97,292,535,0 184,349,256,416,1 599,265,742,565,0 454,195,525,339,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/043.jpg 150,49,362,493,0 236,308,296,394,1 564,145,661,402,0 667,182,783,472,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/046.jpg 191,163,280,357,0 186,257,216,274,1 4,181,105,424,0 303,169,398,472,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/047.jpg 113,207,246,555,0 1,215,68,556,0 277,184,391,463,0 186,177,272,448,0 74,169,150,443,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/048.jpg 29,183,124,405,0 1,163,104,192,1 132,183,214,404,0 202,183,291,389,0 362,93,401,180,0 369,142,387,161,1 355,181,400,425,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/049.jpg 212,84,273,209,1 104,1,304,285,0 5,1,128,191,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/050.jpg 159,232,206,335,0 85,231,128,311,0 38,232,87,314,0 1,216,20,315,0 307,248,349,362,0 345,246,373,321,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/051.jpg 146,242,207,379,0 146,292,164,327,1 1,230,26,295,0 117,233,146,299,0 257,225,312,332,0 332,229,360,308,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/052.jpg 130,267,188,362,0 253,283,310,431,0 225,339,262,367,1 298,268,344,372,0 340,267,374,345,0 200,276,219,313,0 102,267,126,317,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/053.jpg 363,1,448,165,0 296,195,451,520,0 83,291,239,646,0 77,149,187,313,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/054.jpg 302,295,452,595,0 239,373,298,410,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/055.jpg 186,238,419,625,0 456,246,631,625,0 7,219,162,612,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/056.jpg 677,82,844,569,0 508,376,726,565,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/057.jpg 805,269,875,593,1 884,132,1147,593,0 59,171,268,593,0 1,159,64,570,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/060.jpg 72,137,215,314,0 150,258,187,309,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/061.jpg 151,40,225,204,0 186,128,199,147,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/062.jpg 80,30,150,187,0 119,116,136,141,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/063.jpg 3,19,150,259,0 179,124,253,151,1 162,66,368,290,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/064.jpg 1,18,150,273,0 197,36,231,82,1 170,57,368,287,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/065.jpg 34,159,161,646,0 229,187,374,646,0 379,151,527,563,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/066.jpg 63,226,138,452,0 133,218,236,523,0 374,220,481,515,0 521,187,629,514,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/067.jpg 93,222,162,446,0 99,326,133,340,1 146,216,241,515,0 385,218,462,505,0 530,192,628,517,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/068.jpg 136,242,210,547,0 293,247,367,475,0 370,249,462,540,0 497,223,594,545,0 604,255,648,538,0 289,375,306,401,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/069.jpg 331,196,478,539,0 479,196,606,516,0 457,61,530,232,0 521,51,597,266,0 621,72,718,301,0 419,51,502,236,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/070.jpg 347,214,476,502,0 357,352,397,386,1 882,203,1038,506,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/072.jpg 933,82,1045,393,0 387,118,538,425,0 433,240,474,274,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/073.jpg 148,126,216,295,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/074.jpg 94,238,191,459,0 45,291,81,316,1 936,159,1062,519,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/075.jpg 431,150,648,363,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/076.jpg 358,172,493,426,0 401,137,519,381,0 472,132,584,426,0 603,156,787,467,0 658,45,749,221,0 268,115,333,232,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/077.jpg 872,219,1000,591,0 342,140,449,368,0 273,145,387,354,0 255,112,318,226,0 440,41,508,192,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/078.jpg 454,21,506,136,0 319,62,374,147,0 286,86,351,179,0 294,156,413,342,0 642,141,783,458,0 423,221,595,574,0 306,319,512,616,0 149,231,295,508,0 80,235,197,448,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/079.jpg 437,351,872,437,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/080.jpg 43,52,139,444,0 116,50,195,348,0 169,56,264,407,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/081.jpg 213,69,309,424,0 139,70,208,315,0 77,86,169,348,0 21,102,100,288,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/082.jpg 96,91,154,263,0 150,94,211,251,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/083.jpg 194,126,310,396,0 312,84,529,593,0 637,105,896,593,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/084.jpg 384,54,482,313,0 316,307,576,611,0 984,273,1123,552,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/085.jpg 253,109,517,602,0 528,323,588,451,1 41,301,432,602,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/086.jpg 375,205,465,480,0 230,226,315,398,0 246,311,273,382,1 731,210,810,396,0 738,292,761,353,1 904,181,966,435,0 1047,168,1142,520,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/087.jpg 327,216,413,541,1 364,3,617,557,0 519,342,629,411,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/088.jpg 358,144,489,598,0 552,132,703,492,0 525,313,563,436,1 943,291,976,419,1 998,97,1148,598,0 954,139,1058,481,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/089.jpg 479,224,606,593,0 567,423,603,511,1 821,207,930,538,0 409,253,487,459,0 387,363,405,428,1 324,251,422,498,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/090.jpg 327,150,539,626,1 537,519,585,627,1 600,196,731,627,0 837,196,954,611,0 794,413,830,556,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/091.jpg 140,168,212,393,0 660,160,754,404,0 551,270,675,311,1 873,187,934,368,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/092.jpg 2,244,57,410,0 156,198,251,576,0 236,238,437,636,0 413,246,495,636,0 494,261,669,623,0 479,504,507,569,1 825,201,959,636,0 928,262,1109,636,0 983,429,1151,636,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/093.jpg 1,213,119,625,0 136,240,398,625,0 393,267,495,489,1 508,244,636,613,0 496,442,530,570,1 793,227,951,625,0 879,360,1027,625,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/095.jpg 49,64,180,520,0 167,91,234,259,0 309,12,477,610,0 432,355,623,597,1 496,87,685,564,0 705,10,860,520,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/096.jpg 291,227,878,314,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/097.jpg 396,2,552,346,0 501,127,561,189,1 545,27,668,350,0 628,168,728,458,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/098.jpg 323,1,459,359,0 550,71,708,462,0 635,171,746,493,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/099.jpg 299,1,449,335,0 608,160,759,491,0 747,191,998,585,0 774,443,848,509,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/100.jpg 960,379,1011,468,1 723,255,1079,589,0 600,179,758,463,0 293,1,458,321,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/104.jpg 27,15,180,549,1 149,33,260,511,1 237,22,345,503,1 322,33,434,535,1 437,26,535,557,1 544,45,624,423,1 620,37,708,502,1 688,28,827,525,1 799,41,912,552,1 903,22,1041,541,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/106.jpg 66,73,267,570,1 253,57,403,474,1 388,116,507,523,1 546,103,1074,182,1 516,160,1097,307,1 532,253,1060,368,1 574,329,1041,474,1 678,460,1087,577,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/107.jpg 201,90,980,579,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/109.jpg 240,17,807,443,1 405,49,1020,587,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/110.jpg 8,272,785,500,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/111.jpg 44,83,1019,263,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/112.jpg 270,214,734,335,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/115.jpg 406,109,722,505,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/116.jpg 206,86,839,509,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/117.jpg 35,78,1123,532,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/118.jpg 98,376,213,617,1 160,356,344,617,1 238,341,453,577,1 288,292,623,556,1 392,286,707,523,1 471,276,798,492,1 548,268,829,471,1 591,260,908,425,1 679,253,1007,422,1 743,240,1052,391,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/119.jpg 645,4,799,98,1 372,87,677,625,0 786,75,1123,625,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/120.jpg 158,134,806,419,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/121.jpg 574,209,856,446,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/122.jpg 484,254,741,452,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/123.jpg 453,126,824,262,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/125.jpg 698,416,855,584,1 561,1,1152,646,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/129.jpg 408,204,931,360,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/130.jpg 1,10,321,596,1 220,10,643,551,1 468,12,975,515,1 735,6,1151,464,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/131.jpg 1,1,255,601,1 243,1,543,601,1 482,1,868,607,1 683,1,1152,519,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/132.jpg 63,1,932,308,1 112,110,1007,580,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/134.jpg 101,1,613,99,1 76,53,1022,346,1 32,284,1065,611,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/135.jpg 438,232,583,482,1 338,123,921,598,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/136.jpg 129,1,251,595,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/137.jpg 435,200,724,268,1 419,37,745,617,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/139.jpg 434,222,542,333,1 437,63,749,638,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/141.jpg 281,18,738,650,0 400,488,452,584,1 641,445,743,567,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/142.jpg 215,60,872,229,1 223,538,371,601,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/144.jpg 20,35,405,327,1 212,57,502,602,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/145.jpg 449,80,768,636,0 328,212,739,371,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/146.jpg 92,85,324,180,1 481,37,760,595,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/147.jpg 103,207,228,328,1 65,257,219,598,0 756,344,818,475,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/149.jpg 582,68,1095,602,0 873,3,1015,255,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/150.jpg 213,117,413,583,0 349,320,406,579,1 456,112,682,581,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/151.jpg 94,64,385,596,0 1,133,172,415,1 306,105,358,415,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/152.jpg 242,53,344,91,1 261,74,387,322,0 169,83,231,322,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/153.jpg 224,68,520,637,0 303,137,593,356,1 654,143,992,637,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/156.jpg 492,109,682,585,0 497,284,687,333,1 741,106,959,591,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/157.jpg 590,153,684,314,1 450,358,638,388,1 403,114,611,592,0 702,107,944,615,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/159.jpg 460,109,629,509,0 460,325,514,446,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/160.jpg 369,209,594,612,0 353,454,394,583,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/161.jpg 504,180,819,482,0 605,305,805,395,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/162.jpg 288,17,769,642,0 274,28,528,354,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/163.jpg 489,87,757,602,0 649,25,715,184,1 754,90,981,597,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/164.jpg 127,266,196,439,0 7,278,53,374,0 201,285,276,457,0 381,273,446,423,0 355,277,406,377,0 553,272,741,648,0 889,233,1063,624,0 1096,245,1157,522,0 760,240,866,492,0 452,278,498,416,0 494,256,596,459,0 597,406,717,622,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/165.jpg 1,175,85,570,0 90,207,152,427,0 145,210,223,424,0 196,202,279,452,0 268,212,351,483,0 370,185,466,476,0 522,147,749,638,0 602,429,794,553,1 748,100,960,638,0 1018,203,1131,568,0 925,208,998,475,0 469,211,530,393,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/167.jpg 483,153,865,643,0 491,307,545,624,1 1,509,323,641,1 1,242,159,641,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/168.jpg 756,145,970,601,0 636,319,778,602,0 298,142,489,602,0 237,152,373,394,1 206,212,272,348,0 83,192,146,342,0 104,184,170,308,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/171.jpg 423,144,700,572,0 359,261,495,368,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/172.jpg 233,163,382,548,0 254,107,383,262,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/173.jpg 321,138,572,641,0 458,338,564,601,1 634,78,936,641,0 651,288,1024,508,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/174.jpg 222,107,541,632,0 63,91,487,364,1 751,163,1038,302,1 756,89,1014,632,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/176.jpg 623,849,2154,4561,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/178.jpg 1511,2774,1836,3199,1 954,1524,2067,4943,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/179.jpg 579,274,2179,4624,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/180.jpg 723,843,2323,5036,0 1473,3005,2304,3299,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/181.jpg 523,393,2354,5393,0 1436,3436,2136,3986,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/182.jpg 629,636,2366,4929,0 1817,3124,2348,3443,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/184.jpg 336,823,2342,5436,0 398,1318,954,2243,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/185.jpg 598,1105,2229,4874,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/186.jpg 673,849,2161,5074,0 748,1086,1379,1605,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/187.jpg 973,1011,1648,1480,1 780,693,2180,4874,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/188.jpg 536,668,2486,4743,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/190.jpg 823,949,2292,4911,0 873,3180,1067,3699,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/191.jpg 798,374,2261,4811,0 829,2780,1111,3174,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/192.jpg 1004,1368,2179,4718,0 1773,2080,2086,2630,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/193.jpg 823,1186,2548,5249,0 1911,2805,2498,3036,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/194.jpg 373,886,2492,4868,0 279,1818,773,2518,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/195.jpg 686,530,2229,4893,0 1061,805,1198,1674,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/196.jpg 911,1205,2167,4499,0 1885,2093,2329,2749,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/197.jpg 386,349,2629,5693,0 767,2780,1067,3255,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/198.jpg 573,193,2511,5655,0 798,2199,1092,2805,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/199.jpg 504,230,2542,5449,0 786,1530,1036,2505,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/200.jpg 536,411,2642,5711,0 992,2868,1286,3386,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/201.jpg 273,86,2361,5749,0 692,2249,1048,2818,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/202.jpg 504,280,2329,5599,0 948,1630,1261,2374,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/204.jpg 454,311,2329,5461,0 686,2061,992,2680,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/205.jpg 473,249,2361,5380,0 704,1561,898,2330,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/206.jpg 648,661,2323,5511,0 1366,2937,1985,3168,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/207.jpg 467,236,2367,5555,0 1391,2012,1885,2506,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/208.jpg 479,105,2179,5299,0 1254,1630,1923,2161,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/209.jpg 736,449,2354,5436,0 1723,2524,2411,2943,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/210.jpg 567,155,2286,5461,0 1617,1874,2329,2355,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/212.jpg 598,1418,2442,5724,0 1761,3305,2398,3574,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/213.jpg 867,911,2323,5405,0 1729,2649,2298,3011,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/214.jpg 748,555,2442,5449,0 1779,2230,2392,2624,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/215.jpg 2073,2911,2617,3355,1 942,1268,2223,5630,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/217.jpg 798,380,2329,5568,0 2161,1968,2704,2411,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/218.jpg 723,799,2179,4999,0 561,2524,942,2874,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/219.jpg 624,518,2298,5324,0 467,1974,948,2624,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/220.jpg 454,1761,923,2393,1 598,424,2311,4936,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/221.jpg 729,830,2261,4986,0 492,2330,1061,2755,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/222.jpg 379,2068,1036,2574,1 773,349,2211,5311,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/223.jpg 379,1824,1048,2411,1 667,274,2298,5036,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/224.jpg 967,836,2086,5005,0 592,2230,1123,2693,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/226.jpg 692,168,2029,4874,0 498,1830,979,2211,1
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/228.jpg 729,761,2004,5143,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/229.jpg 917,418,2111,4649,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/230.jpg 873,586,1973,5418,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/231.jpg 717,305,1954,5430,0
+F:\毕业设计\yolov4-tiny-pytorch-master\VOCdevkit/VOC2007/JPEGImages/232.jpg 979,205,2079,5043,0
